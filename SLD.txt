@@ -1,0 +1,14 @@
+Source,550
+ChkPt-1,550
+ChkPt-2,450
+ChkPt-3,510
+ChkPt-4,325
+ChkPt-5,415
+ChkPt-6,235
+ChkPt-7,455
+ChkPt-8,400
+ChkPt-9,325
+ChkPt-10,240
+ChkPt-11,170
+ChkPt-12,205
+Destination,0

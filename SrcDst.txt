@@ -1,0 +1,17 @@
+Source,ChkPt-1,120 
+Source,ChkPt-9,142
+Source,ChkPt-7,77
+ChkPt-7,ChkPt-8,71
+ChkPt-8,ChkPt-9,122
+ChkPt-9,ChkPt-10,111
+ChkPt-9,ChkPt-12,82
+ChkPt-12,ChkPt-11,99
+ChkPt-11,Destination,105
+ChkPt-10,Destination,213
+ChkPt-12,ChkPt-6,148
+ChkPt-6,ChkPt-11,140
+ChkPt-5,ChkPt-6,126
+ChkPt-5,ChkPt-4,122
+ChkPt-4,ChkPt-3,77
+ChkPt-3,ChkPt-2,72
+ChkPt-1,ChkPt-2,113
